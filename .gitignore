@@ -1,0 +1,12 @@
+/.idea
+/build
+/dist
+/lm-evaluation-harness-2
+/lora_ft/llm_weights
+/lora_ft/saved_weights
+/lora_ft/saved_weights_llama7b copy
+lora_ft/saved_weights-int2
+lora_ft/saved_weights-int3
+lora_ft/saved_weights-int4
+lora_ft/*.log
+lora_ft/*.zip
